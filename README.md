@@ -8,4 +8,3 @@ Mi CV puede descargarse del siguiente link:
 
 <p>
 
-[CV Actualizado](https://agustincobos96.github.io/Cv.CobosAgustin.TyHM.2021/)
