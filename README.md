@@ -8,4 +8,4 @@ Mi CV puede descargarse del siguiente link:
 
 <p>
 
-[CV Actualizado]()
+[CV Actualizado](file:///C:/Users/agust/Documents/Facultad/Tecnicas%20y%20Herramientas%20modernas/CV_Agustin%20Cobos.zip)
